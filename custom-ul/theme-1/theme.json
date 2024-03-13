@@ -1,0 +1,75 @@
+{
+  "displayName": "Custom Theme 1",
+  "borders": {
+    "button_border_radius": 3,
+    "button_border_weight": 1,
+    "buttons_style": "rounded",
+    "input_border_radius": 3,
+    "input_border_weight": 1,
+    "inputs_style": "rounded",
+    "show_widget_shadow": true,
+    "widget_border_weight": 1,
+    "widget_corner_radius": 12
+  },
+  "colors": {
+    "base_focus_color": "#3F59E4",
+    "base_hover_color": "#3F59E4",
+    "body_text": "#191919",
+    "error": "#d03c38",
+    "header": "#191919",
+    "icons": "#191919",
+    "input_background": "#FFFFFF",
+    "input_border": "#c9cace",
+    "input_filled_text": "#191919",
+    "input_labels_placeholders": "#6b6d74",
+    "links_focused_components": "#3F59E4",
+    "primary_button": "#191919",
+    "primary_button_label": "#f4f2ec",
+    "secondary_button_border": "#c9cace",
+    "secondary_button_label": "#191919",
+    "success": "#13a688",
+    "widget_background": "#FFFFFF",
+    "widget_border": "#FFFFFF"
+  },
+  "fonts": {
+    "body_text": {
+      "bold": false,
+      "size": 87.5
+    },
+    "buttons_text": {
+      "bold": false,
+      "size": 100
+    },
+    "font_url": "https://cdn.demo.okta.com/fonts/aeonik-regular.woff2",
+    "input_labels": {
+      "bold": false,
+      "size": 100
+    },
+    "links": {
+      "bold": true,
+      "size": 87.5
+    },
+    "links_style": "normal",
+    "reference_text_size": 16,
+    "subtitle": {
+      "bold": false,
+      "size": 87.5
+    },
+    "title": {
+      "bold": false,
+      "size": 150
+    }
+  },
+  "page_background": {
+    "background_color": "#FFF",
+    "background_image_url": "",
+    "page_layout": "center"
+  },
+  "widget": {
+    "header_text_alignment": "center",
+    "logo_height": 90,
+    "logo_position": "center",
+    "logo_url": "https://cdn.demo.okta.com/images/storytime/storytime-icon.png",
+    "social_buttons_layout": "bottom"
+  }
+}
